@@ -1,7 +1,7 @@
 # deep-learning-challenge
 Deep Learning Charity Funding Outcome Predictor Project using hyper-tuned Neural Networks.
 
-
+With the attached tool - Neural network, Alphabet Soup Foundation can predict, which applicants would be able to fund thier ventures and have a higher rate of success.  The tool will create a binary classification from the given data set and will predict whether the applicants will be successful if funded by Alphabet Soup Foundation.  
 
 
 
