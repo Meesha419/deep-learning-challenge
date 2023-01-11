@@ -47,6 +47,13 @@ Sigmoid activation for output as the output doesn't change.
 
 ![Screenshot 2023-01-11 213526](https://user-images.githubusercontent.com/110227464/211784555-4c2727c9-a8fa-4412-9785-f6417f2bf1b0.png)
 
+Tried to chnage nodes and neurons while changing parameters to get the best accuracy, however both models were around 75%. 
+
+
+
+![image](https://user-images.githubusercontent.com/110227464/211787081-526052cb-bb5a-4cc5-97df-ab925549ab1b.png)
+
+
 
 ## 3. *Summary* ##
-*The final optimized neural network trained model from the keras tuner method achieved 80% prediction accuracy with a 0.45 loss, using a sigmoid activation function with input node of 76; 5 hidden layers at a 16, 21, 26, 11, 21, neurons split and 50 training epochs. Performing better than the non automized model. Keeping the Name column was crucial in achieving and and going beyond the target. This shows the importance of the shape of your datasets before you preprocess it.*
+*The final optimised neural network trained model from the keras tuner method achieved 80% prediction accuracy with a 0.45 loss, using a sigmoid activation function with input node of 76; 5 hidden layers at a 16, 21, 26, 11, 21, neurons split and 50 training epochs. Performing better than the non automated model. Keeping the Name column was crucial in achieving and and going beyond the target. This shows the importance of the shape of your datasets before you preprocess it.*
