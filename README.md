@@ -36,11 +36,16 @@ Feature Variables for the model:
 
 - **Compiling, Training, and Evaluating the Model**
 
-f hidden layers - 80, 30 neurons split and node feature was 43. First Layer - 80 (this is almost double the input feature). 
+Two hidden layers - 80/30 neurons split and node feature was 43. First Layer - 80 (this is almost double the input feature). 
 With an hidden layer activation function of relu as this our go to for first model.
 Output node is 1 as it was binary classifier model with only one output: was the funding application succesfull yes or no. And an output layer activation of sigmoid as the model output is binary classification between 0 and 1.
 Then hidden layers were increased to 3 and set the third hidden layer at 30 as the model prediction accuracy was below 75%:
 ![Screenshot 2023-01-11 212912](https://user-images.githubusercontent.com/110227464/211783279-b22940e5-e5f5-4641-b19a-dd7f2c5ccef8.png)
+
+Second model tanh activation was used and 3 hidden layers with 90/30/20 neuron split.
+Sigmoid activation for output as the output doesn't change.
+
+![Screenshot 2023-01-11 213526](https://user-images.githubusercontent.com/110227464/211784555-4c2727c9-a8fa-4412-9785-f6417f2bf1b0.png)
 
 
 ## 3. *Summary* ##
