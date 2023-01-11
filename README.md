@@ -56,6 +56,10 @@ With keras sequential model using the keras_tuner library tried to optimise the 
 This will automatically tune the hyperparameters untill it reaches the highest accurate model.
 ![image](https://user-images.githubusercontent.com/110227464/211788195-61288dd8-72d4-4602-9770-b0265f73b3e9.png)
 
+Below is the keras tuner model - 73% using sigmoid activation function
+![image](https://user-images.githubusercontent.com/110227464/211788911-8d5abe51-60d2-4435-a60b-979dcbffffb2.png)
+
+
 
 
 
