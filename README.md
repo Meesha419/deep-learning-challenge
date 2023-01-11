@@ -50,8 +50,12 @@ Sigmoid activation for output as the output doesn't change.
 Tried to chnage nodes and neurons while changing parameters to get the best accuracy, however both models were around 75%. 
 
 
-
+With keras sequential model using the keras_tuner library tried to optimise the accuracy.
 ![image](https://user-images.githubusercontent.com/110227464/211787081-526052cb-bb5a-4cc5-97df-ab925549ab1b.png)
+
+This will automatically tune the hyperparameters untill it reaches the highest accurate model.
+![image](https://user-images.githubusercontent.com/110227464/211788195-61288dd8-72d4-4602-9770-b0265f73b3e9.png)
+
 
 
 
