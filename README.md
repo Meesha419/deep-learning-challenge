@@ -59,7 +59,8 @@ This will automatically tune the hyperparameters untill it reaches the highest a
 Below is the keras tuner model - 73% using sigmoid activation function
 ![image](https://user-images.githubusercontent.com/110227464/211788911-8d5abe51-60d2-4435-a60b-979dcbffffb2.png)
 
-
+Third and final model - 80% accuracy.  
+![image](https://user-images.githubusercontent.com/110227464/211789705-63c42972-0373-415d-83b8-50842ab058df.png)
 
 
 
